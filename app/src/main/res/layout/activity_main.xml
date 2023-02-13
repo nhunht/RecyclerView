@@ -85,6 +85,7 @@
             android:id="@+id/edTxtPassword"
             style="@style/editText"
             android:hint="Password"
+            android:inputType="textPassword"
             android:layout_marginBottom="15dp"/>
 
         <Button
